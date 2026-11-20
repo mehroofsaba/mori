@@ -106,9 +106,6 @@ export default function Settings() {
   return (
     <div className="page">
       <h1 className="display">Settings</h1>
-      <p className="muted">
-        Make the garden yours. Your garden is private and saved to your account.
-      </p>
       <div className="two-col">
         <Card title="Account">
           <p>

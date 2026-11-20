@@ -75,9 +75,6 @@ export default function Tasks() {
       <div className="greet">
         <div>
           <h1 className="display">Tasks</h1>
-          <p className="muted">
-            Everything growing in your garden, in one calm list.
-          </p>
         </div>
         <button className="btn primary" onClick={() => openTask()}>
           <Plus size={16} />

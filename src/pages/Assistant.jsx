@@ -42,10 +42,6 @@ export default function Assistant() {
   return (
     <div className="page">
       <h1 className="display">Assistant</h1>
-      <p className="muted">
-        Unload your thoughts, find a sensible order, or talk through what’s
-        blocking you.
-      </p>
       <Tabs items={TABS} value={tab} onChange={(t) => setParams({ tab: t })} />
       {tab === "dump" && (
         <BrainDump

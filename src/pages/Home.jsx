@@ -88,8 +88,8 @@ export default function Home() {
       <div className="greet">
         <div>
           <h1 className="display">
-            Hello, {prefs.name || "little gardener"}!{" "}
-            <span className="heart">♥</span>
+            Hello,{prefs.name || "little gardener"}!{""}
+            <span className="heart">𖹭</span>
           </h1>
         </div>
         {!empty && (
@@ -112,7 +112,7 @@ export default function Home() {
                   your first task?
                 </p>
                 <button className="btn primary" onClick={() => openTask()}>
-                  Add Your First Task ♥
+                  Add Your First Task 𑣲.
                 </button>
               </div>
             ) : (

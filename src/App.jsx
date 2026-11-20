@@ -216,15 +216,13 @@ export default function App() {
             ))}
           </nav>
           <div className="mascot">
-            <span className="cloud">You’ve got this ♥</span>
+            <span className="cloud">You’ve got this ✰</span>
             <CatMascot size={150} />
           </div>
         </aside>
         <main className="content">
           <div className="topbar">
-            <span className="tag display">
-              Plant your thoughts. Grow your days. ♥
-            </span>
+            <span className="tag display">Plant your thoughts ❀</span>
             <BellMenu />
             <AvatarMenu />
           </div>
