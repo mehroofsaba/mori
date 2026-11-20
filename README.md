@@ -306,4 +306,4 @@ You don't need to have everything figured out before you begin.
 
 ### Built with care by [Mehroofs Saba](https://github.com/mehroofsaba)
 
-[GitHub Repository](https://github.com/mehroofsaba/mori) · [GitHub Profile](https://github.com/mehroofsaba)
+
